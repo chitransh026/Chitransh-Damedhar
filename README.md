@@ -1,4 +1,4 @@
-# Chitaransh-Damedhar
+# Chitransh-Damedhar
 
 # 👋 Hi, I’m Chitransh Damedhar
 
