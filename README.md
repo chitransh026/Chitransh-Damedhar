@@ -1,336 +1,383 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=BOOTING+ENGINEER...;Initializing+Hardware...;Loading+Firmware...;Connecting+Software...;Mission+Ready.">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=BOOTING+ENGINEER...;Initializing+Hardware...;Loading+Firmware...;Connecting+Software...;Mission+Ready." />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=BOOTING+CHITRANSH+OS...;Initializing+Hardware...;Loading+AI+Modules...;Connecting+Distributed+Systems...;Mission+Ready." />
 
 </div>
 
-<div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1a3e 100%); padding: 2px;">
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF41&textBg=false"/>
-
-</div>
-
-# 🚀 `./whoami.sh`
+# `./whoami.sh`
 
 ```bash
-user@system:~$ ./whoami.sh
+visitor@github:~$ ./whoami.sh
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+name     = Chitransh Damedhar
 
-name         Chitransh Damedhar
-role         Electronics & Communication Engineering
-             RCOEM Nagpur • Batch 2027
+role     = Electronics & Communication Engineering
+           RCOEM Nagpur • Batch 2027
 
-expertise    ◆ Embedded Systems & Firmware
-             ◆ Robotics & Control Systems
-             ◆ Hardware Design & PCB Layout
-             ◆ Distributed Systems Architecture
-             ◆ Real-time Processing & IoT
+identity = An Engineer in Action .
 
-mission      Build intelligent systems where
-             hardware and software work together
-             seamlessly.
+focus    = Hardware • Software • AI
 
-status       🟢 ONLINE — Building & Learning
+status   = ONLINE
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+mission  = Build intelligent systems that
+           sense, understand, decide and act.
 ```
 
 ---
 
-<div align="center">
+# Mission Control
 
-### 📊 **Engineer Status Monitor**
-
-</div>
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ SYSTEM DIAGNOSTICS                      ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ ✓ Hardware Integration      [██████████] ┃
-┃ ✓ Firmware Development      [██████████] ┃
-┃ ✓ Software Architecture     [█████████░] ┃
-┃ ✓ Problem Solving           [██████████] ┃
-┃ ✓ System Design             [█████████░] ┃
-┃ ✓ Learning Capacity         [██████████] ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```text
+╭──────────────────────────────────────────────╮
+│ SYSTEM STATUS                                │
+├──────────────────────────────────────────────┤
+│ Hardware      █████████░                      │
+│ Software      ████████░                       │
+│ AI            ███████░░                       │
+│ Robotics      ███████░░                       │
+│ Learning      ██████████                      │
+│ Curiosity     ∞                               │
+╰──────────────────────────────────────────────╯
 ```
 
 ---
 
-<div align="center">
+> "A sensor reading is not knowledge.
+> Knowledge is not intelligence.
+> Intelligence is not action.
+> The challenge is connecting all four."
 
-### 🏆 **Achievements & Milestones**
+---
 
-</div>
+# Achievements
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ RECOGNITION BOARD                       ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🏅 IEEE ICEDGE Best AIoT Innovator      ┃
-┃    Award — IISc Bangalore (2025)        ┃
-┃                                          ┃
-┃ 🥉 3rd Prize — Pratkriti 2025            ┃
-┃    YCCE Nagpur                           ┃
-┃                                          ┃
-┃ 🥇 1st Prize — Circuit Competition       ┃
-┃    Techtatva                             ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```text
+╭──────────────────────────────────────────────╮
+│ ACHIEVEMENTS                                 │
+├──────────────────────────────────────────────┤
+│ 🏆 IEEE ICEDGE Best AIoT Innovator Award     │
+│    IISc Bangalore • 2025                     │
+│                                              │
+│ 🥉 3rd Prize • Pratkriti 2025                │
+│    YCCE Nagpur                               │
+│                                              │
+│ 🥇 1st Prize • Circuit Competition           │
+│    Tecktantra                               │
+╰──────────────────────────────────────────────╯
 ```
 
 ---
 
-<div align="center">
-
-### 💡 **Engineering Philosophy**
-
-</div>
+# Philosophy.log
 
 ```bash
-$ cat manifesto.sh
+$ cat philosophy.log
 ```
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```text
+Technology changes.
 
-🔍 I don't limit myself to one layer.
+Principles don't.
 
-📐 I understand and design complete systems.
+Understand fundamentals.
+Build useful things.
+Stay curious.
 
-  ┌─────────────────────────────────────┐
-  │  Sensor Input & Data Acquisition    │
-  │            ↓                         │
-  │  Processing & Embedded Logic        │
-  │            ↓                         │
-  │  Communication Protocols            │
-  │            ↓                         │
-  │  Backend & Data Management          │
-  │            ↓                         │
-  │  Visualization & User Interface     │
-  └─────────────────────────────────────┘
-
-⚙️  Hardware problem? → Build hardware.
-💻 Software challenge? → Design software.
-🎯 Real goal? → Solve the problem.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Repeat.
 ```
 
 ---
 
-<div align="center">
+# Active Projects
 
-### 🔧 **Active Projects**
+## `/drone-precision-agriculture`
 
-</div>
+Edge AI powered precision agriculture pipeline.
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **Drone Telemetry System** | Real-time data processing & monitoring for autonomous systems | Embedded, Telemetry, Robotics |
-| **STM32 Bare Metal Drivers** | Register-level peripheral drivers (UART, SPI, I2C, GPIO, Timers) | STM32, Embedded C, Bare Metal |
-| **Kafka Order Processing** | Distributed event-driven architecture with producers/consumers | Python, Kafka, Distributed Systems |
-| **FarmEasy** | Crop health analysis & precision agriculture platform | Computer Vision, IoT, Agritech |
-| **Quadruped Robot** | Robotics platform for locomotion & control systems | Robotics, Control Systems, ROS |
+```text
+TinyUNetV2
+↓
+Multispectral Reconstruction
+↓
+ONNX Optimization
+↓
+Raspberry Pi Deployment
+```
+
+`Computer Vision` `Edge AI` `ONNX` `Raspberry Pi`
 
 ---
 
-<div align="center">
+## `/stm32-bare-metal-drivers`
 
-### 🎯 **Technical Skill Matrix**
+Peripheral drivers written from scratch using register-level programming.
 
-</div>
+```text
+GPIO
+UART
+SPI
+I2C
+Timers
+ADC
+```
+
+`STM32` `Embedded C` `Firmware`
+
+---
+
+## `/kafka-order-processing-system`
+
+Distributed event-driven architecture using producers, consumers and message streaming.
+
+```text
+Producer
+ ↓
+Kafka
+ ↓
+Consumer
+```
+
+`Python` `Kafka` `Distributed Systems`
+
+---
+
+## `/pcb-component-vision`
+
+Computer vision pipeline for electronic component inspection.
+
+`OpenCV` `YOLO` `Electronics`
+
+---
+
+## `/quadruped-robot`
+
+Robotics platform focused on locomotion, control and embedded integration.
+
+`Robotics` `Control Systems`
+
+---
+
+> "The best engineers are not specialists in tools.
+> They are specialists in solving problems."
+
+---
+
+# Architecture.sh
 
 ```bash
-$ ./skills.sh --display
+$ ./architecture.sh
 ```
 
-```
-EMBEDDED SYSTEMS
-  Embedded C               ████████████ 95%
-  STM32 Bare Metal         ███████████░ 90%
-  FreeRTOS                 ██████████░░ 85%
-  Embedded Linux           █████████░░░ 80%
+```text
+Sensor Layer
+│
+├── STM32
+├── ESP32
+└── Raspberry Pi
 
-ROBOTICS & CONTROL
-  Robotics Design          ███████████░ 88%
-  Control Systems          ██████████░░ 85%
-  ROS / ROS2               █████████░░░ 80%
-  Motion Planning          ████████░░░░ 75%
+Processing Layer
+│
+├── Python
+├── OpenCV
+├── ONNX
+└── Edge AI
 
-HARDWARE & PCB
-  PCB Design               ██████████░░ 85%
-  Hardware Integration     ███████████░ 88%
-  Circuit Analysis         ██████████░░ 85%
+Communication Layer
+│
+├── UART
+├── SPI
+├── I2C
+├── MQTT
+└── Kafka
 
-SOFTWARE ARCHITECTURE
-  System Design            ██████████░░ 85%
-  Backend Systems          █████████░░░ 80%
-  Python Development       █████████░░░ 82%
-  Distributed Systems      ████████░░░░ 75%
-
-TOOLS & PLATFORMS
-  Git & Version Control    ████████████ 95%
-  Docker & Containerization ██████████░░ 85%
-  Linux & Shell            ███████████░ 90%
-  VS Code & IDEs           ████████████ 95%
+Application Layer
+│
+├── Flask
+├── APIs
+└── Dashboards
 ```
 
 ---
 
-<div align="center">
-
-### 📚 **Technology Stack**
-
-</div>
+# Stack.sh
 
 ```bash
-$ cat stack.config
+$ ./stack.sh
+```
+
+### Hardware
+
+`STM32`
+`ESP32`
+`Raspberry Pi`
+`Jetson Nano`
+`PCB Design`
+
+### Embedded
+
+`Embedded C`
+`FreeRTOS`
+`Bare Metal Programming`
+
+### AI / Vision
+
+`PyTorch`
+`OpenCV`
+`YOLO`
+`ONNX`
+
+### Software
+
+`Python`
+`Flask`
+`Kafka`
+
+### Tools
+
+`Linux`
+`Git`
+`Docker`
+`VS Code`
+
+---
+
+# Mindset.txt
+
+```text
+I enjoy building complete systems.
+
+Sensor
+↓
+Firmware
+↓
+Communication
+↓
+Backend
+↓
+Visualization
+
+Every layer matters.
+```
+
+---
+
+> "The map is not the territory.
+> Documentation is not understanding.
+> Building is understanding."
+
+---
+
+# Learning.log
+
+```yaml
+currently_learning:
+  - ROS2
+  - Advanced STM32
+  - Embedded Linux
+  - Distributed Systems
+  - PCB Design
+
+currently_building:
+  - Drone Telemetry System
+  - Robotics Projects
+  - Embedded Drivers
+
+currently_exploring:
+  - Edge AI
+  - Computer Vision
+  - Intelligent Systems
+```
+
+---
+
+# Timeline
+
+```text
+2025
+│
+├── 🏆 IEEE ICEDGE Best AIoT Innovator Award
+│
+├── 🥉 Pratkriti 2025
+│
+├── 🥇 Circuit Competition Winner
+│
+├── Drone Precision Agriculture
+│
+└── Kafka Distributed Systems
+
+2024
+│
+├── STM32 Bare Metal Development
+│
+├── FarmEasy
+│
+└── PCB Design Journey
+
+2023
+│
+└── Started Embedded Systems Journey
+```
+
+---
+
+# Mission.sys
+
+```bash
+$ cat /etc/mission
+```
+
+```text
+Build systems that can
+
+Sense
+Understand
+Decide
+Act
+
+using
+
+Hardware
+Software
+AI
+Robotics
+
+The destination is not a job title.
+
+The destination is mastery.
+```
+
+---
+
+> "Water adapts to every container.
+> Great engineers adapt to every problem."
+
+---
+
+# Contact
+
+```bash
+$ contact --show
 ```
 
 ```yaml
-HARDWARE:
-  Microcontrollers: STM32 | ESP32 | ARM Cortex-M
-  Development:      Raspberry Pi | Arduino | Custom Boards
-  Sensors:          IMU | Lidar | Camera | Environmental
+status:
+  Open to:
+    - Embedded Systems Internships
+    - Robotics Internships
+    - Edge AI Projects
+    - Systems Engineering Roles
 
-FIRMWARE & EMBEDDED:
-  Languages:        Embedded C | C++ | Assembly
-  Operating Systems: FreeRTOS | Bare Metal | Embedded Linux
-  Protocols:        UART | SPI | I2C | CAN | Modbus
+linkedin:
+  https://linkedin.com/in/YOUR_LINKEDIN
 
-SOFTWARE & BACKEND:
-  Languages:        Python | Bash | JavaScript
-  Frameworks:       Flask | FastAPI | ROS2
-  Stream Processing: Apache Kafka | Message Queues
-  Databases:        PostgreSQL | MongoDB | SQLite
+github:
+  https://github.com/chitransh026
 
-TOOLS & INFRASTRUCTURE:
-  Version Control:  Git | GitHub | GitLab
-  Containerization: Docker | Docker Compose
-  Platforms:        Linux | macOS | Windows
-  IDEs:             VS Code | STM32CubeIDE | PyCharm
-  CAD Tools:        KiCad | Altium | FreeCAD
-```
-
----
-
-<div align="center">
-
-### 📖 **Learning Journey**
-
-</div>
-
-```bash
-$ cat learning.log --live
-```
-
-```yaml
-CURRENTLY MASTERING:
-  → Advanced ROS2 & Robotics Architecture
-  → Embedded Linux & Kernel Development
-  → Distributed Systems & Microservices
-  → Advanced PCB Design & Signal Integrity
-  → Real-time Processing Systems
-
-CURRENTLY BUILDING:
-  → Drone Telemetry System
-  → STM32-based IoT Projects
-  → Robotics Control Systems
-
-NEXT FRONTIERS:
-  → Machine Learning at the Edge
-  → Autonomous Systems
-  → Real-time OS Optimization
-  → Robotics Engineering Role
-```
-
----
-
-<div align="center">
-
-### 📅 **Timeline & Milestones**
-
-</div>
-
-```
-2025  ▸ 🏆 IEEE ICEDGE Award (IISc Bangalore)
-      ▸ 🥉 Pratkriti 2025 Recognition
-      ▸ 🥇 Circuit Competition Victory
-      ▸ 🚀 Drone Telemetry System Launch
-      ▸ 📊 Kafka Distributed System Architecture
-
-2024  ▸ 🔧 STM32 Driver Development
-      ▸ 🌾 FarmEasy Platform
-      ▸ 🎨 PCB Design Journey Begins
-
-2023  ▸ 🚀 Embedded Systems Foundation
-      ▸ 📚 Core Electronics & Firmware
-```
-
----
-
-<div align="center">
-
-### 🎯 **Mission Statement**
-
-</div>
-
-```
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║  BUILD INTELLIGENT SYSTEMS THAT:                      ║
-║                                                        ║
-║  👁️  SENSE   → Hardware + Sensors + Data Acquisition  ║
-║  🧠 THINK   → Intelligence + Processing + Algorithms ║
-║  🏃 MOVE    → Robotics + Control + Actuation         ║
-║  📡 CONNECT → Networks + Protocols + Communication   ║
-║                                                        ║
-║  ═══════════════════════════════════════════════      ║
-║                                                        ║
-║  Embedded Systems × Robotics × AI = Innovation        ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
-### 📬 **Get In Touch**
-
-</div>
-
-```bash
-$ contact --init
-```
-
-```
-╔════════════════════════════════════════════╗
-║ OPEN TO OPPORTUNITIES                      ║
-╠════════════════════════════════════════════╣
-║                                            ║
-║  🎯 Embedded Systems Engineer              ║
-║  🤖 Robotics Developer                     ║
-║  ⚙️  Firmware Engineer                      ║
-║  🚀 IoT Solutions Architect                ║
-║  📊 Edge AI Specialist                     ║
-║                                            ║
-╠════════════════════════════════════════════╣
-║  📧 Email                                  ║
-║     chitranshdamedhar@gmail.com            ║
-║                                            ║
-║  💼 LinkedIn                               ║
-║     linkedin.com/in/chitransh-damedhar     ║
-║                                            ║
-║  🐙 GitHub                                 ║
-║     github.com/chitransh026                ║
-║                                            ║
-╚════════════════════════════════════════════╝
+email:
+  your_email@example.com
 ```
 
 ---
@@ -345,26 +392,14 @@ $ contact --init
 
 <div align="center">
 
+```text
+SYSTEM STATUS
+
+[ OK ] Hardware Loaded
+[ OK ] Software Connected
+[ OK ] AI Modules Running
+
+READY FOR DEPLOYMENT
 ```
-╔════════════════════════════════════════════╗
-║        SYSTEM INITIALIZATION               ║
-╠════════════════════════════════════════════╣
-║ [✓] Hardware Layer        ........... OK   ║
-║ [✓] Firmware Stack        ........... OK   ║
-║ [✓] Software Bridge       ........... OK   ║
-║ [✓] Communication Channel ........... OK   ║
-║ [✓] Learning Module       ........... OK   ║
-╠════════════════════════════════════════════╣
-║         🚀 READY FOR DEPLOYMENT 🚀         ║
-╚════════════════════════════════════════════╝
-```
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF41&textBg=false"/>
-
-<div align="center">
-
-**Built with ⚡ passion for engineering excellence**
 
 </div>
