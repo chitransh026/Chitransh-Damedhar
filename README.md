@@ -1,4 +1,3 @@
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=BOOTING+CHITRANSH+OS...;Initializing+Hardware...;Loading+AI+Modules...;Connecting+Distributed+Systems...;Mission+Ready." />
 
@@ -152,14 +151,6 @@ Computer vision pipeline for electronic component inspection.
 
 ---
 
-## `/quadruped-robot`
-
-Robotics platform focused on locomotion, control and embedded integration.
-
-`Robotics` `Control Systems`
-
----
-
 > "The best engineers are not specialists in tools.
 > They are specialists in solving problems."
 
@@ -212,14 +203,12 @@ $ ./stack.sh
 
 `STM32`
 `ESP32`
-`Raspberry Pi`
 `Jetson Nano`
 `PCB Design`
 
 ### Embedded
 
 `Embedded C`
-`FreeRTOS`
 `Bare Metal Programming`
 
 ### AI / Vision
@@ -234,13 +223,18 @@ $ ./stack.sh
 `Python`
 `Flask`
 `Kafka`
+`C/C++`
+`Javascript`
+`Node.js`
+`SQL`
+`MONGO DB`
+
+
 
 ### Tools
 
-`Linux`
 `Git`
 `Docker`
-`VS Code`
 
 ---
 
@@ -273,17 +267,6 @@ Every layer matters.
 # Learning.log
 
 ```yaml
-currently_learning:
-  - ROS2
-  - Advanced STM32
-  - Embedded Linux
-  - Distributed Systems
-  - PCB Design
-
-currently_building:
-  - Drone Telemetry System
-  - Robotics Projects
-  - Embedded Drivers
 
 currently_exploring:
   - Edge AI
@@ -305,8 +288,7 @@ currently_exploring:
 ├── 🥇 Circuit Competition Winner
 │
 ├── Drone Precision Agriculture
-│
-└── Kafka Distributed Systems
+
 
 2024
 │
@@ -370,27 +352,41 @@ status:
     - Edge AI Projects
     - Systems Engineering Roles
 
+
+## ⚡ SYSTEM INFO
+
+```text
+╭──────────────────────────────╮
+│ OS       : Chitransh OS      │
+│ Kernel   : Systems Engineer  │
+│ Shell    : Curiosity         │
+│ Editor   : VS Code           │
+│                              │
+│ Languages: C • C++ • Python  │
+│ Focus    : H/W × S/W × AI    │
+│ Status   : BUILDING          │
+╰──────────────────────────────╯
+```
+
+## 💭 Quote of the Build
+
+```text
+"The distance between theory
+and practice is a project."
+```
+
+
+
+
 linkedin:
-  https://linkedin.com/in/YOUR_LINKEDIN
+  https://www.linkedin.com/in/chitransh-damedhar-9230a2281
 
 github:
   https://github.com/chitransh026
 
 email:
-  your_email@example.com
+  chitranshdamedhar@gmail.com
 ```
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/chitransh026/chitransh026/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
 
 ```text
 SYSTEM STATUS
